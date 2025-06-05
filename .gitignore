@@ -1,0 +1,80 @@
+#################################
+# Unity
+#################################
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# Crash reports
+sysinfo.txt
+
+# Ignore cache files
+*.stackdump
+
+#################################
+# Unity generated files
+#################################
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+#################################
+# Rider
+#################################
+
+.idea/
+*.sln.iml
+
+#################################
+# VS Code
+#################################
+
+.vscode/
+
+#################################
+# OS-specific files
+#################################
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+#################################
+# Others
+#################################
+
+*.apk
+*.aab
+*.app
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.playground
+*.pyc
+*.log
+*.bak
+*.swp
+
